@@ -1,0 +1,15 @@
+C:\Users\Doğuş\Desktop\newamq\bin\Debug\net6.0\newamq.exe
+C:\Users\Doğuş\Desktop\newamq\bin\Debug\net6.0\newamq.deps.json
+C:\Users\Doğuş\Desktop\newamq\bin\Debug\net6.0\newamq.runtimeconfig.json
+C:\Users\Doğuş\Desktop\newamq\bin\Debug\net6.0\newamq.dll
+C:\Users\Doğuş\Desktop\newamq\bin\Debug\net6.0\ref\newamq.dll
+C:\Users\Doğuş\Desktop\newamq\bin\Debug\net6.0\newamq.pdb
+C:\Users\Doğuş\Desktop\newamq\obj\Debug\net6.0\newamq.csproj.AssemblyReference.cache
+C:\Users\Doğuş\Desktop\newamq\obj\Debug\net6.0\newamq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doğuş\Desktop\newamq\obj\Debug\net6.0\newamq.AssemblyInfoInputs.cache
+C:\Users\Doğuş\Desktop\newamq\obj\Debug\net6.0\newamq.AssemblyInfo.cs
+C:\Users\Doğuş\Desktop\newamq\obj\Debug\net6.0\newamq.csproj.CoreCompileInputs.cache
+C:\Users\Doğuş\Desktop\newamq\obj\Debug\net6.0\newamq.dll
+C:\Users\Doğuş\Desktop\newamq\obj\Debug\net6.0\ref\newamq.dll
+C:\Users\Doğuş\Desktop\newamq\obj\Debug\net6.0\newamq.pdb
+C:\Users\Doğuş\Desktop\newamq\obj\Debug\net6.0\newamq.genruntimeconfig.cache
